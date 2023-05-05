@@ -6,3 +6,5 @@ Typscript is build on top of JavaScript. It is superset of JavaScript. It provid
 
 - The second advantage of TypeScript is that it can enforce static typing to catch potential issues earlier in the lifecycle of development. It reduces the need for some unit tests and can analyze the code to find runtime errors at design time
 
+<!-- For Running Typescript -->
+Set-ExecutionPolicy Unrestricted
